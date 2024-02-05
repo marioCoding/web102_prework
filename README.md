@@ -25,10 +25,10 @@ corresponding sections.
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/AqzyVJa' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LICEcap   
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -37,6 +37,8 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+While working though my prework, I found myself having to re-learn some of the concepts that were introduced in the challenges. After reading through documentation, as well as code from my personal projects, I was able to apply my skills and complete the project.
 
 ## License
 
