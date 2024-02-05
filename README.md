@@ -26,6 +26,7 @@ corresponding sections.
 Here's a walkthrough of implemented features:
 
 <img src='https://imgur.com/AqzyVJa' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![MyPreworkGif](https://github.com/marioCoding/web102_prework/assets/101608787/784741a1-cacb-40e4-9b7e-91088318bd5b)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap   
